@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjuhee77.github.io&count_bg=%23A8B9E7&title_bg=%237A7979&icon=github.svg&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
 
 # A list of keywords for your blog
 keywords:              []
